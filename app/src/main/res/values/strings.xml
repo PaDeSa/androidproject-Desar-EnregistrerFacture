@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Budget Android</string>
+    <string name="facture">Facture</string>
+    <string name="enregistrer_une_facture">Enregistrer une facture</string>
+    <string name="consulter_paiement">Consulter Paiement</string>
+    <string name="a_propos">A propos</string>
+    <string name="help">Help</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+</resources>
